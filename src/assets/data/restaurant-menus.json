@@ -1,0 +1,94 @@
+[
+  {
+    "id": 0,
+    "name": "Cannibale Royale",
+    "menu": [
+      {
+        "title": "Sandwiches",
+        "meals": [
+          {
+            "title": "Le Pulled rib",
+            "price": "9.5",
+            "description": "Our favourite ribs, fresh coleslaw and BBQ sauce"
+          },
+          {
+            "title": "Cannnibale’s Cheese Steak",
+            "price": "10.5",
+            "description": "U.S.A flat iron steak, red cheddar, jalapeños, lettuce, baked onion rings and horseradisch sauce"
+          },
+          {
+            "title": "Grilled Vegetables",
+            "price": "9",
+            "description": "Grilled paprika, zucchini, red onion, feta cheese and pesto"
+          }
+        ]
+      },
+      {
+        "title": "Meat",
+        "meals": [
+          {
+            "title": "Le Sympathique (200gr)",
+            "price": "16.5",
+            "description": "Bavette from Australia"
+          },
+          {
+            "title": "Le Modeste (300gr)",
+            "price": "22.5",
+            "description": "Flat Iron Steak U.S.A Beef"
+          },
+          {
+            "title": "L’Exceptionnel (600gr)",
+            "price": "39.50",
+            "description": "Tender rib roast from Irish Shannon beef"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Vegan Junk Food bar",
+    "menu": [
+      {
+        "title": "Burgers & Specials",
+        "meals": [
+          {
+            "title": "Mc Cruelty Free",
+            "price": "12,50",
+            "description": "Juicy VJFB™ beef 3.0 on original bun, Cheeze, lettuce, tomato, spring & crispy onion mix, pickles, Crunchy Chipstix, VJFB™ sauce"
+          },
+          {
+            "title": "Daddy",
+            "price": "12.5",
+            "description": "Crunchy No wing strips on pinky bun, Cheeze, lettuce, tomato, spring & crispy onion mix, pickles, blue daddy sauce"
+          },
+          {
+            "title": "Royal Smash Burger",
+            "price": "13,95",
+            "description": "VJFB™ Smashed beef 3.0 on black bun, Cheeze, crispy bacon, lettuce, tomato, pickles, spring & crispy onion mix, jalapeños, Smeck sauce"
+          }
+        ]
+      },
+      {
+        "title": "Loaded freak fries",
+        "meals": [
+          {
+            "title": "T.R.U.F. SUPRÊME",
+            "price": "8.5",
+            "description": "French fries, Cheeze, truffle oil, red peppers, Pinky T.R.U.F. Flavour sauce"
+          },
+          {
+            "title": "Shawarma a.k.a. KAPSALON",
+            "price": "12.5",
+            "description": "VJFB™ Shawarma, french fries, Cheeze, jalapeños, red peppers, garlic & VJFB™ sauce"
+          },
+          {
+            "title": "FLASHY Shawarma KAPSALON",
+            "price": "14.50",
+            "description": "Sweet potato fries, VJFB™ Shawarma, Cheeze, jalapeños, red peppers, pomegranate, purple garlic sauce"
+          }
+        ]
+      }
+    ]
+  }
+]
