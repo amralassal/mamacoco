@@ -14,7 +14,7 @@ export default class MenuCard extends Component {
           <Card.Title>
             <Row>
               <Col>{this.props.title}</Col>
-              <Col className="text-end">${this.props.price}</Col>
+              <Col className="text-end">€{this.props.price}</Col>
             </Row>
           </Card.Title>
           <Card.Text>

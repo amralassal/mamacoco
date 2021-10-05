@@ -47,38 +47,53 @@ export default class Main extends Component {
         }
       ],
       selectedMeal: [],
+      selectedRestaurant : [{
+        name: ''
+      }],
+      selectedRestaurantsAndMeals: [
+        {
+          restaurant: {
+            name: ''
+          },
+          meal: []
+        }
+      ],
       searchValue: ''
     }
   }
 
   findMenu = (jsonData, keyWord) => {
-    let selected = {
-      selectedRestaurant: null,
-      selectedMeal: []
-    }
+    let selected = []
     jsonData.map(res => {
+      let meals = []
       res.menu.map(section => {
         section.meals.map(meal => {
           if (meal.title.toLowerCase().includes(keyWord) || meal.description.toLowerCase().includes(keyWord)) {
-            selected = {
-              selectedRestaurant: res,
-              selectedMeal: [meal]
-            }
+            meals.push(meal)
           }
         })
       })
+      if (meals.length > 0) {
+        selected.push({
+           restaurant: res,
+            meal: meals
+         }
+        )
+      }
     });
     return selected;
   }
 
   fetchData = () => {
     let {searchValue} = this.state
-    const jsonData = require("../../assets/data/restaurant-menus.json")
+    const jsonData = require("../../assets/data/restaurant-menus2.json")
     const selected = this.findMenu(jsonData, searchValue.toLowerCase())
-    if (selected.selectedRestaurant) {
+    if (selected.length > 0) {
       this.setState({
-        menu: selected.selectedRestaurant.menu,
-        selectedMeal: selected.selectedMeal,
+        // menu: selected.selectedRestaurant.menu,
+        // selectedMeal: selected.selectedMeal,
+        // selectedRestaurant: selected.selectedRestaurant,
+        selectedRestaurantsAndMeals: selected,
         searchValue: ''
       })
     }
