@@ -47,7 +47,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.356666,
+        "lng": 4.902592500000001,
+        "address": "Hemonystraat 38, 1074 BS Amsterdam, Netherlands"
+      },
+      "id": 0
     },
     {
       "name": "Restaurant Bougainvill",
@@ -87,7 +93,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37245600000001,
+        "lng": 4.893293,
+        "address": "Dam 27, 1012 JS Amsterdam, Netherlands"
+      },
+      "id": 1
     },
     {
       "name": "Day's StoneGrill 1870",
@@ -407,7 +419,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3773182,
+        "lng": 4.8939946,
+        "address": "Spuistraat 4, 1012 TS Amsterdam, Netherlands"
+      },
+      "id": 2
     },
     {
       "name": "Senses Restaurant",
@@ -457,7 +475,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36590409999999,
+        "lng": 4.8932993,
+        "address": "Vijzelstraat 45, 1017 HE Amsterdam, Netherlands"
+      },
+      "id": 3
     },
     {
       "name": "Restaurant Verena",
@@ -732,7 +756,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3703885,
+        "lng": 4.9110178,
+        "address": "Rapenburgerplein 2, 1011 VA Amsterdam, Netherlands"
+      },
+      "id": 4
     },
     {
       "name": "Staring at Jacob",
@@ -782,7 +812,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36231,
+        "lng": 4.861847099999999,
+        "address": "Jacob Van Lennepkade 215, 1054 ZP Amsterdam, Netherlands"
+      },
+      "id": 5
     },
     {
       "name": "Restaurant Olijfj",
@@ -1187,7 +1223,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3688116,
+        "lng": 4.9054556,
+        "address": "Valkenburgerstraat 223D, 1011 MJ Amsterdam, Netherlands"
+      },
+      "id": 6
     },
     {
       "name": "Palmyra Syrian Restaurant",
@@ -1377,7 +1419,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3759024,
+        "lng": 4.8935039,
+        "address": "Nieuwezijds Voorburgwal 53H, 1012 RD Amsterdam, Netherlands"
+      },
+      "id": 7
     },
     {
       "name": "The Chicken Bar",
@@ -1512,7 +1560,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3682794,
+        "lng": 4.8906084,
+        "address": "Voetboogstraat 6, 1012 XL Amsterdam, Netherlands"
+      },
+      "id": 8
     },
     {
       "name": "De Royal Chophous",
@@ -1777,7 +1831,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.354543,
+        "lng": 4.8552401,
+        "address": "Amstelveenseweg 128, 1075 XL Amsterdam, Netherlands"
+      },
+      "id": 9
     },
     {
       "name": "Ku Kitchen & Bar",
@@ -1887,7 +1947,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36170019999999,
+        "lng": 4.8989934,
+        "address": "Utrechtsestraat 114, 1017 VT Amsterdam, Netherlands"
+      },
+      "id": 10
     },
     {
       "name": "Eastwood Beer & Grill",
@@ -2147,7 +2213,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37648300000001,
+        "lng": 4.9052665,
+        "address": "Oosterdoksstraat 4, 1011 DK Amsterdam, Netherlands"
+      },
+      "id": 11
     },
     {
       "name": "Grand Cafe 1884",
@@ -2352,7 +2424,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37779829999999,
+        "lng": 4.9052186,
+        "address": "De Ruijterkade 105, 1011 AB Amsterdam, Netherlands"
+      },
+      "id": 12
     },
     {
       "name": "Hearth",
@@ -2487,7 +2565,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3560554,
+        "lng": 4.8961991,
+        "address": "Albert Cuypstraat 208 H, 1073 BM Amsterdam, Netherlands"
+      },
+      "id": 13
     },
     {
       "name": "Sherpa Restaurant",
@@ -2562,7 +2646,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36318360000001,
+        "lng": 4.8846962,
+        "address": "Korte Leidsedwarsstraat 58, 1017 RD Amsterdam, Netherlands"
+      },
+      "id": 14
     },
     {
       "name": "Elkaar",
@@ -2657,7 +2747,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.363267,
+        "lng": 4.919213,
+        "address": "Alexanderplein 6, 1018 CG Amsterdam, Netherlands"
+      },
+      "id": 15
     },
     {
       "name": "Ashoka - Kinkerstraat",
@@ -2722,7 +2818,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36814159999999,
+        "lng": 4.875768799999999,
+        "address": "Kinkerstraat 7, 1053 DB Amsterdam, Netherlands"
+      },
+      "id": 16
     },
     {
       "name": "The Happy Bull",
@@ -3107,7 +3209,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.350889,
+        "lng": 4.851491,
+        "address": "Hoofddorpweg 9H, 1059 CS Amsterdam, Netherlands"
+      },
+      "id": 17
     },
     {
       "name": "Brasserie Ambassad",
@@ -3147,7 +3255,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3694444,
+        "lng": 4.8872222,
+        "address": "Herengracht 339, 1016 AZ Amsterdam, Netherlands"
+      },
+      "id": 18
     },
     {
       "name": "Heart-Garden Waffles & Coff",
@@ -3217,7 +3331,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3694031,
+        "lng": 4.928552,
+        "address": "Czaar Peterstraat 74, 1018 PR Amsterdam, Netherlands"
+      },
+      "id": 19
     },
     {
       "name": "Ashoka - Amsterdam Centrum",
@@ -3547,7 +3667,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3771012,
+        "lng": 4.8941717,
+        "address": "Spuistraat 3G, 1012 SP Amsterdam, Netherlands"
+      },
+      "id": 20
     },
     {
       "name": "ount Everest Tandoori",
@@ -4062,7 +4188,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3838,
+        "lng": 4.9129,
+        "address": "Spreeuwenpark 3D, 1021 GS Amsterdam, Netherlands"
+      },
+      "id": 21
     },
     {
       "name": "The Good Companio",
@@ -4222,7 +4354,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37793730000001,
+        "lng": 4.8797792,
+        "address": "Westerstraat 264, 1015 MT Amsterdam, Netherlands"
+      },
+      "id": 22
     },
     {
       "name": "OS Amsterdam",
@@ -4237,7 +4375,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3705075,
+        "lng": 4.894247200000001,
+        "address": "Oudezijds Voorburgwal 300, 1012 GL Amsterdam, Netherlands"
+      },
+      "id": 23
     },
     {
       "name": "Vermeer",
@@ -4262,7 +4406,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.376537,
+        "lng": 4.900446,
+        "address": "Prins Hendrikkade 59-72, 1012 AD Amsterdam, Netherlands"
+      },
+      "id": 24
     },
     {
       "name": "Greenwoods Singel",
@@ -4372,7 +4522,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3758,
+        "lng": 4.891298,
+        "address": "Singel 103, 1012 VG Amsterdam, Netherlands"
+      },
+      "id": 25
     },
     {
       "name": "Brasserie SenT",
@@ -4437,7 +4593,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3557922,
+        "lng": 4.8889776,
+        "address": "Saenredamstraat 39-41, 1072 CC Amsterdam, Netherlands"
+      },
+      "id": 26
     },
     {
       "name": "Restaurant Florey",
@@ -4502,7 +4664,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3547166,
+        "lng": 4.887762299999999,
+        "address": "Albert Cuypstraat 31, 1072 CL Amsterdam, Netherlands"
+      },
+      "id": 27
     },
     {
       "name": "Krua Thai Classic Restaurant",
@@ -4567,7 +4735,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3681468,
+        "lng": 4.898026799999999,
+        "address": "Staalstraat 22, 1011 JM Amsterdam, Netherlands"
+      },
+      "id": 28
     },
     {
       "name": "John Dory fish restaurant",
@@ -4582,7 +4756,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3621417,
+        "lng": 4.893863899999999,
+        "address": "Prinsengracht 999, 1017 KM Amsterdam, Netherlands"
+      },
+      "id": 29
     },
     {
       "name": "The Pantry",
@@ -4692,7 +4872,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3634845,
+        "lng": 4.8849427,
+        "address": "Leidsekruisstraat 21, 1017 RE Amsterdam, Netherlands"
+      },
+      "id": 30
     },
     {
       "name": "Greenwoods Keizersgracht",
@@ -4767,7 +4953,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.365982,
+        "lng": 4.887036,
+        "address": "Keizersgracht 465, 1017 DK Amsterdam, Netherlands"
+      },
+      "id": 31
     },
     {
       "name": "Bridges",
@@ -4907,7 +5099,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.370803,
+        "lng": 4.895181,
+        "address": "Oudezijds Voorburgwal 197, 1012 EX Amsterdam, Netherlands"
+      },
+      "id": 32
     },
     {
       "name": "JUN Indonesian Cuisi",
@@ -5052,7 +5250,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3758801,
+        "lng": 4.8732001,
+        "address": "Frederik Hendrikstraat 98, 1052 HZ Amsterdam, Netherlands"
+      },
+      "id": 33
     },
     {
       "name": "La Maschera Lillotatini",
@@ -5067,7 +5271,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3778188,
+        "lng": 4.8814226,
+        "address": "Tweede Anjeliersdwarsstraat 6-HS, 1015 NT Amsterdam, Netherlands"
+      },
+      "id": 34
     },
     {
       "name": "DenC, Dik en Cunningham",
@@ -5137,7 +5347,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3629151,
+        "lng": 4.8982572,
+        "address": "Kerkstraat 377, 1017 HW Amsterdam, Netherlands"
+      },
+      "id": 35
     },
     {
       "name": "Pianeta Terra",
@@ -5202,7 +5418,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3680098,
+        "lng": 4.887771,
+        "address": "Beulingstraat 7, 1017 BA Amsterdam, Netherlands"
+      },
+      "id": 36
     },
     {
       "name": "Taj India",
@@ -5347,7 +5569,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3573712,
+        "lng": 4.891099,
+        "address": "Marie Heinekenplein 1, 1072 MH Amsterdam, Netherlands"
+      },
+      "id": 37
     },
     {
       "name": "Levant",
@@ -5537,7 +5765,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.361021,
+        "lng": 4.8873346,
+        "address": "Weteringschans 93, 1017 RZ Amsterdam, Netherlands"
+      },
+      "id": 38
     },
     {
       "name": "Pier 62 Fish & Chips",
@@ -5652,7 +5886,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3630945,
+        "lng": 4.8848749,
+        "address": "Korte Leidsedwarsstraat 62, 1017 RD Amsterdam, Netherlands"
+      },
+      "id": 39
     },
     {
       "name": "Cocott",
@@ -5737,7 +5977,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3742923,
+        "lng": 4.8903788,
+        "address": "Spuistraat 127, 1012 SV Amsterdam, Netherlands"
+      },
+      "id": 40
     },
     {
       "name": "Singel 101 Restaurant",
@@ -5847,7 +6093,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.375853,
+        "lng": 4.89131,
+        "address": "Singel 101, 1012 VG Amsterdam, Netherlands"
+      },
+      "id": 41
     },
     {
       "name": "Amigo Restaurant",
@@ -5892,7 +6144,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3736532,
+        "lng": 4.882652500000001,
+        "address": "Prinsengracht 188, H, 1016 HC Amsterdam, Netherlands"
+      },
+      "id": 42
     },
     {
       "name": "De Zott",
@@ -5952,7 +6210,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3660779,
+        "lng": 4.8810324,
+        "address": "Raamstraat 29, 1016 XL Amsterdam, Netherlands"
+      },
+      "id": 43
     },
     {
       "name": "Rakang",
@@ -6027,7 +6291,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36966899999999,
+        "lng": 4.881332,
+        "address": "Elandsgracht 29-31, 1016 TM Amsterdam, Netherlands"
+      },
+      "id": 44
     },
     {
       "name": "Kinnaree Thai Cuisi",
@@ -6187,7 +6457,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37803,
+        "lng": 4.883281999999999,
+        "address": "Eerste Anjeliersdwarsstraat 14, 1015 NR Amsterdam, Netherlands"
+      },
+      "id": 45
     },
     {
       "name": "EN Japanese kitchen & sake bar",
@@ -6282,7 +6558,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3510842,
+        "lng": 4.8895437,
+        "address": "Dusartstraat 53 h, 1072 HP Amsterdam, Netherlands"
+      },
+      "id": 46
     },
     {
       "name": "Verona Ristorante Italiano",
@@ -6372,7 +6654,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.366811,
+        "lng": 4.889535500000001,
+        "address": "Reguliersdwarsstraat 7, 1017 BJ Amsterdam, Netherlands"
+      },
+      "id": 47
     },
     {
       "name": "La Casa Di Michael",
@@ -6432,7 +6720,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3843028,
+        "lng": 4.8469694,
+        "address": "Admiraal de Ruijterweg 535, 1055 MK Amsterdam, Netherlands"
+      },
+      "id": 48
     },
     {
       "name": "Bubbles & Wines Winebar and Champagnebar",
@@ -6547,7 +6841,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3716367,
+        "lng": 4.8937374,
+        "address": "Nes 37, 1012 KC Amsterdam, Netherlands"
+      },
+      "id": 49
     },
     {
       "name": "Hemelse Modder",
@@ -6777,7 +7077,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37319180000001,
+        "lng": 4.9034486,
+        "address": "Oude Waal 11, 1011 BZ Amsterdam, Netherlands"
+      },
+      "id": 50
     },
     {
       "name": "Van Speyk",
@@ -6892,7 +7198,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3773069,
+        "lng": 4.8945902,
+        "address": "Spuistraat 3a, 1012 SP Amsterdam, Netherlands"
+      },
+      "id": 51
     },
     {
       "name": "Seasons Restaurant",
@@ -7032,7 +7344,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3772252,
+        "lng": 4.8890475,
+        "address": "Herenstraat 16, 1015 BW Amsterdam, Netherlands"
+      },
+      "id": 52
     },
     {
       "name": "Bolenius",
@@ -7177,7 +7495,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3360932,
+        "lng": 4.8737328,
+        "address": "George Gershwinlaan 30, 1082 MT Amsterdam, Netherlands"
+      },
+      "id": 53
     },
     {
       "name": "Restaurant Semai",
@@ -7292,7 +7616,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.393562,
+        "lng": 4.9118892,
+        "address": "Papaverhoek 35, 1032 JZ Amsterdam, Netherlands"
+      },
+      "id": 54
     },
     {
       "name": "Geflipt Burgers - De Pijp",
@@ -7382,7 +7712,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.357041,
+        "lng": 4.8997993,
+        "address": "Van Woustraat 15, 1074 AA Amsterdam, Netherlands"
+      },
+      "id": 55
     },
     {
       "name": "Restaurant Bl",
@@ -7422,7 +7758,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3483759,
+        "lng": 4.9173295,
+        "address": "Prins Bernhardplein 175, 1097 BL Amsterdam, Netherlands"
+      },
+      "id": 56
     },
     {
       "name": "Sugo Amsterdam",
@@ -7537,7 +7879,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3530965,
+        "lng": 4.8912201,
+        "address": "Ferdinand Bolstraat 107, 1072 LE Amsterdam, Netherlands"
+      },
+      "id": 57
     },
     {
       "name": "Koh-i-Noor",
@@ -7602,7 +7950,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37386,
+        "lng": 4.88367,
+        "address": "Westermarkt 29, 1016 DJ Amsterdam, Netherlands"
+      },
+      "id": 58
     },
     {
       "name": "TDQ Steaks",
@@ -7707,7 +8061,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37720909999999,
+        "lng": 4.8943844,
+        "address": "Spuistraat 3C-D, 1012 SP Amsterdam, Netherlands"
+      },
+      "id": 59
     },
     {
       "name": "De Waaghals",
@@ -7727,7 +8087,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3571514,
+        "lng": 4.8889195,
+        "address": "Frans Halsstraat 29, 1072 BK Amsterdam, Netherlands"
+      },
+      "id": 60
     },
     {
       "name": "Restaurant Black and Bl",
@@ -7917,7 +8283,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37574720000001,
+        "lng": 4.8854076,
+        "address": "Leliegracht 46, 1015 DH Amsterdam, Netherlands"
+      },
+      "id": 61
     },
     {
       "name": "Restaurant Pizzeria Lucca D",
@@ -8182,7 +8554,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3846531,
+        "lng": 4.9214841,
+        "address": "Spijkerkade 31, 1021 JS Amsterdam, Netherlands"
+      },
+      "id": 62
     },
     {
       "name": "Incanto",
@@ -8312,7 +8690,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3670112,
+        "lng": 4.8938636,
+        "address": "Amstel 2, 1017 AA Amsterdam, Netherlands"
+      },
+      "id": 63
     },
     {
       "name": "Formosa Argentina",
@@ -8357,7 +8741,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37636699999999,
+        "lng": 4.894638899999999,
+        "address": "Nieuwezijds Kolk 16, 1012 PV Amsterdam, Netherlands"
+      },
+      "id": 64
     },
     {
       "name": "Tomo Sushi",
@@ -8392,7 +8782,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3658897,
+        "lng": 4.895302,
+        "address": "Reguliersdwarsstraat 131, 1017 BL Amsterdam, Netherlands"
+      },
+      "id": 65
     },
     {
       "name": "Al Bacaro",
@@ -8417,7 +8813,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3632722,
+        "lng": 4.8923178,
+        "address": "Vijzelstraat 97, 1017 HH Amsterdam, Netherlands"
+      },
+      "id": 66
     },
     {
       "name": "yrabell",
@@ -8477,7 +8879,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3512719,
+        "lng": 4.8561681,
+        "address": "Amstelveenseweg 212, 1075 XT Amsterdam, Netherlands"
+      },
+      "id": 67
     },
     {
       "name": "Balthazar's Keuk",
@@ -8527,7 +8935,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.369498,
+        "lng": 4.879725,
+        "address": "Elandsgracht 108, 1016 VA Amsterdam, Netherlands"
+      },
+      "id": 68
     },
     {
       "name": "Bluespoo",
@@ -9307,7 +9721,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3677494,
+        "lng": 4.882858199999999,
+        "address": "Prinsengracht 587 - Ground Floor, 1016 HT Amsterdam, Netherlands"
+      },
+      "id": 69
     },
     {
       "name": "Bar-B Burgers 'N' Beer Bar",
@@ -9407,7 +9827,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3642761,
+        "lng": 4.8842951,
+        "address": "Lange Leidsedwarsstraat 29, 1017 NG Amsterdam, Netherlands"
+      },
+      "id": 70
     },
     {
       "name": "Steakhouse Tango Grill",
@@ -9472,7 +9898,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3658669,
+        "lng": 4.8951323,
+        "address": "Reguliersdwarsstraat 125, 1017 BL Amsterdam, Netherlands"
+      },
+      "id": 71
     },
     {
       "name": "De Blauwe Hollander",
@@ -9612,7 +10044,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3635228,
+        "lng": 4.884827,
+        "address": "Leidsekruisstraat 28, 1017 RJ Amsterdam, Netherlands"
+      },
+      "id": 72
     },
     {
       "name": "A-Fusio",
@@ -9717,7 +10155,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3732492,
+        "lng": 4.900118,
+        "address": "Zeedijk 130, 1012 BC Amsterdam, Netherlands"
+      },
+      "id": 73
     },
     {
       "name": "Villa Maria Steakhous",
@@ -9812,7 +10256,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3640146,
+        "lng": 4.8846737,
+        "address": "Lange Leidsedwarsstraat 45, 1017 NG Amsterdam, Netherlands"
+      },
+      "id": 74
     },
     {
       "name": "ROYAL98",
@@ -9952,7 +10402,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37350619999999,
+        "lng": 4.8932159,
+        "address": "Damrak 98, 1012 LP Amsterdam, Netherlands"
+      },
+      "id": 75
     },
     {
       "name": "Kevin Bacon Bar",
@@ -10102,7 +10558,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3662607,
+        "lng": 4.859482499999999,
+        "address": "Witte de Withstraat 38, 1057 XZ Amsterdam, Netherlands"
+      },
+      "id": 76
     },
     {
       "name": "chi Food & Drinks",
@@ -10487,7 +10949,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.354195,
+        "lng": 4.997927499999999,
+        "address": "IJburglaan 1295, 1087 JJ Amsterdam, Netherlands"
+      },
+      "id": 77
     },
     {
       "name": "La Luna Steakhouse Grill",
@@ -10572,7 +11040,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36431049999999,
+        "lng": 4.884183999999999,
+        "address": "Lange Leidsedwarsstraat 25, 1017 NE Amsterdam, Netherlands"
+      },
+      "id": 78
     },
     {
       "name": "Kop van Jut",
@@ -10642,7 +11116,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3740572,
+        "lng": 4.8682115,
+        "address": "Kop van Jut, 1051 Amsterdam, Netherlands"
+      },
+      "id": 79
     },
     {
       "name": "Visrestaurant Lucius",
@@ -10657,7 +11137,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37076099999999,
+        "lng": 4.889332,
+        "address": "Spuistraat 247, 1012 VP Amsterdam, Netherlands"
+      },
+      "id": 80
     },
     {
       "name": "Salmuera",
@@ -10717,7 +11203,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3733333,
+        "lng": 4.8794444,
+        "address": "Rozengracht 106, 1016 NH Amsterdam, Netherlands"
+      },
+      "id": 81
     },
     {
       "name": "Restaurant Piccolo Mondo Amsterdam",
@@ -10782,7 +11274,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37408110000001,
+        "lng": 4.9016819,
+        "address": "Geldersekade 93, 1011 EL Amsterdam, Netherlands"
+      },
+      "id": 82
     },
     {
       "name": "Wolf Atelier",
@@ -11037,7 +11535,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3830845,
+        "lng": 4.8923399,
+        "address": "Westerdoksplein 20, 1013 AZ Amsterdam, Netherlands"
+      },
+      "id": 83
     },
     {
       "name": "Tulsi Indian Restaurant",
@@ -11147,7 +11651,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3505556,
+        "lng": 4.9033333,
+        "address": "Van Woustraat 212, 1073 NA Amsterdam, Netherlands"
+      },
+      "id": 84
     },
     {
       "name": "Grandcafe Hermes",
@@ -11187,7 +11697,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3882938,
+        "lng": 4.8367898,
+        "address": "Orlyplein 150, 1043 DV Amsterdam, Netherlands"
+      },
+      "id": 85
     },
     {
       "name": "De Nieuwe Pilserij",
@@ -11447,7 +11963,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3743183,
+        "lng": 4.8926222,
+        "address": "Gravenstraat 10A, 1012 NM Amsterdam, Netherlands"
+      },
+      "id": 86
     },
     {
       "name": "El Vino",
@@ -11492,7 +12014,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3638878,
+        "lng": 4.88486,
+        "address": "Lange Leidsedwarsstraat 51, 1017 NG Amsterdam, Netherlands"
+      },
+      "id": 87
     },
     {
       "name": "Restaurant RED",
@@ -11702,7 +12230,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3640546,
+        "lng": 4.889094399999999,
+        "address": "Keizersgracht 594, 1017 EN Amsterdam, Netherlands"
+      },
+      "id": 88
     },
     {
       "name": "aenaam Thai Restaurant",
@@ -11762,7 +12296,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3753041,
+        "lng": 4.8911693,
+        "address": "Spuistraat 90A, 1012 TZ Amsterdam, Netherlands"
+      },
+      "id": 89
     },
     {
       "name": "Ca",
@@ -11852,7 +12392,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3746004,
+        "lng": 4.8938107,
+        "address": "Damrak 79, 1012 LM Amsterdam, Netherlands"
+      },
+      "id": 90
     },
     {
       "name": "Ristorante La Festa",
@@ -12192,7 +12738,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3699022,
+        "lng": 4.8802834,
+        "address": "Hazenstraat 64, 1016 SR Amsterdam, Netherlands"
+      },
+      "id": 91
     },
     {
       "name": "Sichuan Food",
@@ -12382,7 +12934,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36655649999999,
+        "lng": 4.890566199999999,
+        "address": "Reguliersdwarsstraat 35, 1017 BK Amsterdam, Netherlands"
+      },
+      "id": 92
     },
     {
       "name": "Chez Georges",
@@ -12487,7 +13045,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3769879,
+        "lng": 4.889290799999999,
+        "address": "Herenstraat 3, 1015 BX Amsterdam, Netherlands"
+      },
+      "id": 93
     },
     {
       "name": "ayur",
@@ -12677,7 +13241,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3785817,
+        "lng": 4.8540516,
+        "address": "Lorreinenstraat 2-3, 1055 CX Amsterdam, Netherlands"
+      },
+      "id": 94
     },
     {
       "name": "mories of India",
@@ -12762,7 +13332,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3658361,
+        "lng": 4.8941278,
+        "address": "Reguliersdwarsstraat 88, 1017 BN Amsterdam, Netherlands"
+      },
+      "id": 95
     },
     {
       "name": "Pizza Taxi Da Paolo & Seba",
@@ -12847,7 +13423,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3531725,
+        "lng": 4.892584300000001,
+        "address": "Ceintuurbaan 121, 1072 GA Amsterdam, Netherlands"
+      },
+      "id": 96
     },
     {
       "name": "alaysian restaurant Wa",
@@ -12912,7 +13494,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3754778,
+        "lng": 4.9011148,
+        "address": "Zeedijk 35, 1012 AR Amsterdam, Netherlands"
+      },
+      "id": 97
     },
     {
       "name": "Dwaze Zak",
@@ -13052,7 +13640,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37659170000001,
+        "lng": 4.8993917,
+        "address": "Prins Hendrikkade 50, 1012 AC Amsterdam, Netherlands"
+      },
+      "id": 98
     },
     {
       "name": "Ganesha Indian Restaurant",
@@ -13152,7 +13746,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3758438,
+        "lng": 4.9026794,
+        "address": "Geldersekade 5 HS, 1011 EH Amsterdam, Netherlands"
+      },
+      "id": 99
     },
     {
       "name": "Pikoteo",
@@ -13352,7 +13952,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3900126,
+        "lng": 4.8858484,
+        "address": "Houtmankade 9, 1013 MP Amsterdam, Netherlands"
+      },
+      "id": 100
     },
     {
       "name": "SkyLounge Amsterdam",
@@ -13592,7 +14198,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3768643,
+        "lng": 4.9049587,
+        "address": "Oosterdoksstraat 4, 1011 DK Amsterdam, Netherlands"
+      },
+      "id": 101
     },
     {
       "name": "Saturnino",
@@ -13652,7 +14264,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3668671,
+        "lng": 4.8894334,
+        "address": "Reguliersdwarsstraat 3-5, 1017 BJ Amsterdam, Netherlands"
+      },
+      "id": 102
     },
     {
       "name": "Assaggi",
@@ -13872,7 +14490,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3768201,
+        "lng": 4.881959,
+        "address": "Tweede Egelantiersdwarsstraat 6, 1015 SC Amsterdam, Netherlands"
+      },
+      "id": 103
     },
     {
       "name": "Risto Enoteca PepeNero",
@@ -14032,7 +14656,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3557474,
+        "lng": 4.907712099999999,
+        "address": "Eerste Oosterparkstraat 3-5, 1091 GT Amsterdam, Netherlands"
+      },
+      "id": 104
     },
     {
       "name": "Saint Morris Argentijns Restaurant",
@@ -14077,7 +14707,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3721058,
+        "lng": 4.8965026,
+        "address": "Oudezijds Voorburgwal 163, 1012 ET Amsterdam, Netherlands"
+      },
+      "id": 105
     },
     {
       "name": "Steakhouse Piet de Leeuw",
@@ -14247,7 +14883,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3615333,
+        "lng": 4.8921367,
+        "address": "Noorderstraat 11, 1017 TR Amsterdam, Netherlands"
+      },
+      "id": 106
     },
     {
       "name": "Frenzi",
@@ -14347,7 +14989,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3681355,
+        "lng": 4.8985175,
+        "address": "Zwanenburgwal 232, 1011 JH Amsterdam, Netherlands"
+      },
+      "id": 107
     },
     {
       "name": "Anmol Indian Restaurant",
@@ -14417,7 +15065,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3621232,
+        "lng": 4.8759342,
+        "address": "Eerste Constantijn Huygensstraat 115, 1054 BV Amsterdam, Netherlands"
+      },
+      "id": 108
     },
     {
       "name": "Kitchen & Bar Van Rij",
@@ -14482,7 +15136,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3663868,
+        "lng": 4.8968538,
+        "address": "Rembrandtplein 17, 1017 CT Amsterdam, Netherlands"
+      },
+      "id": 109
     },
     {
       "name": "Samrat Indian Restaurant",
@@ -15382,7 +16042,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37149059999999,
+        "lng": 4.8980616,
+        "address": "Bethani\u00ebndwarsstraat 17, 1012 CB Amsterdam, Netherlands"
+      },
+      "id": 110
     },
     {
       "name": "ata Hari",
@@ -15497,11 +16163,23 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3746613,
+        "lng": 4.90013,
+        "address": "Oudezijds Achterburgwal 22, 1012 DM Amsterdam, Netherlands"
+      },
+      "id": 111
     },
     {
       "name": "CHANG-I",
-      "menu": []
+      "menu": [],
+      "geodata": {
+        "lat": 52.35632,
+        "lng": 4.8781636,
+        "address": "Jan Willem Brouwersstraat 7, 1071 LH Amsterdam, Netherlands"
+      },
+      "id": 112
     },
     {
       "name": "Restaurant Black",
@@ -16191,7 +16869,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3653534,
+        "lng": 4.884468099999999,
+        "address": "Prinsengracht 703, 1017 JV Amsterdam, Netherlands"
+      },
+      "id": 113
     },
     {
       "name": "Restaurant Black",
@@ -17116,7 +17800,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3653534,
+        "lng": 4.884468099999999,
+        "address": "Prinsengracht 703, 1017 JV Amsterdam, Netherlands"
+      },
+      "id": 114
     },
     {
       "name": "Restaurant Black",
@@ -17698,7 +18388,13 @@
           "title": "Let the chef surprise you",
           "meals": []
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3653534,
+        "lng": 4.884468099999999,
+        "address": "Prinsengracht 703, 1017 JV Amsterdam, Netherlands"
+      },
+      "id": 115
     },
     {
       "name": "Ramen-Ya Amsterdam",
@@ -17788,7 +18484,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3720665,
+        "lng": 4.895703,
+        "address": "Oudezijds Voorburgwal 236, 1012 GK Amsterdam, Netherlands"
+      },
+      "id": 116
     },
     {
       "name": "Cafe De Prins",
@@ -17888,7 +18590,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37615830000001,
+        "lng": 4.8839833,
+        "address": "Prinsengracht 124, 1015 EA Amsterdam, Netherlands"
+      },
+      "id": 117
     },
     {
       "name": "Royal Thai Restaurant",
@@ -17933,7 +18641,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.364152,
+        "lng": 4.884256,
+        "address": "94, Lange Leidsedwarsstraat, 1017 NM Amsterdam, Netherlands"
+      },
+      "id": 118
     },
     {
       "name": "Restaurant Freud",
@@ -18038,7 +18752,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3883305,
+        "lng": 4.8804731,
+        "address": "Spaarndammerstraat 424, 1013 SZ Amsterdam, Netherlands"
+      },
+      "id": 119
     },
     {
       "name": "Indian Restaurant Kamasutra",
@@ -18068,7 +18788,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3751459,
+        "lng": 4.8985137,
+        "address": "Lange Niezel 9, 1012 GS Amsterdam, Netherlands"
+      },
+      "id": 120
     },
     {
       "name": "Betty's",
@@ -18083,7 +18809,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.34554079999999,
+        "lng": 4.905777899999999,
+        "address": "Rijnstraat 75, 1079 GX Amsterdam, Netherlands"
+      },
+      "id": 121
     },
     {
       "name": "Ali Ocakbasi - Amsterdam",
@@ -18423,7 +19155,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3648596,
+        "lng": 4.8977689,
+        "address": "Herengracht 558, 1017 CG Amsterdam, Netherlands"
+      },
+      "id": 122
     },
     {
       "name": "Bistro Baret",
@@ -18513,7 +19251,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3616993,
+        "lng": 4.9048359,
+        "address": "Korte Amstelstraat 18, 1018 XS Amsterdam, Netherlands"
+      },
+      "id": 123
     },
     {
       "name": "Instock Amsterdam",
@@ -18643,7 +19387,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3686444,
+        "lng": 4.926485800000001,
+        "address": "Czaar Peterstraat 21, 1018 NW Amsterdam, Netherlands"
+      },
+      "id": 124
     },
     {
       "name": "Alfonso's Mexican & Grill Restaurant",
@@ -18928,7 +19678,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3646798,
+        "lng": 4.898111999999999,
+        "address": "Utrechtsestraat 29, 1017 VH Amsterdam, Netherlands"
+      },
+      "id": 125
     },
     {
       "name": "Ciro Passami L'Olio",
@@ -19053,7 +19809,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3648866,
+        "lng": 4.8782776,
+        "address": "Tweede Helmersstraat 3, 1054 CA Amsterdam, Netherlands"
+      },
+      "id": 126
     },
     {
       "name": "Oriol",
@@ -19153,7 +19915,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37078899999999,
+        "lng": 4.895245,
+        "address": "Oudezijds Voorburgwal 197, 1012 EX Amsterdam, Netherlands"
+      },
+      "id": 127
     },
     {
       "name": "Restaurant Classico",
@@ -19323,7 +20091,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.356846,
+        "lng": 4.874337,
+        "address": "Willemsparkweg 87, 1071 GT Amsterdam, Netherlands"
+      },
+      "id": 128
     },
     {
       "name": "Restaurant 't Zwaantj",
@@ -19463,7 +20237,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3704694,
+        "lng": 4.8838778,
+        "address": "Berenstraat 12, 1016 GH Amsterdam, Netherlands"
+      },
+      "id": 129
     },
     {
       "name": "Restaurant Long Pura",
@@ -19653,7 +20433,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3736798,
+        "lng": 4.881108900000001,
+        "address": "Rozengracht 46-48, 1016 ND Amsterdam, Netherlands"
+      },
+      "id": 130
     },
     {
       "name": "Semhar",
@@ -19733,7 +20519,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3754635,
+        "lng": 4.8774415,
+        "address": "Marnixstraat 259-261, 1015 WH Amsterdam, Netherlands"
+      },
+      "id": 131
     },
     {
       "name": "Spanjer en van Twist",
@@ -19798,7 +20590,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.375948,
+        "lng": 4.884936,
+        "address": "Leliegracht 60, 1015 DJ Amsterdam, Netherlands"
+      },
+      "id": 132
     },
     {
       "name": "Grieks Restaurant Plato",
@@ -19863,7 +20661,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3744659,
+        "lng": 4.8131565,
+        "address": "Confuciusplein 14, 1064 LG Amsterdam, Netherlands"
+      },
+      "id": 133
     },
     {
       "name": "Happyhappyjoyjoy Zuidas",
@@ -20258,7 +21062,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3357392,
+        "lng": 4.8743,
+        "address": "George Gershwinplein 1, 1082 LS Amsterdam, Netherlands"
+      },
+      "id": 134
     },
     {
       "name": "Addis Ababa",
@@ -20458,7 +21268,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3597972,
+        "lng": 4.8642889,
+        "address": "Overtoom 337, 1054 JM Amsterdam, Netherlands"
+      },
+      "id": 135
     },
     {
       "name": "r. Crab",
@@ -20853,7 +21669,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3744186,
+        "lng": 4.891738399999999,
+        "address": "Nieuwezijds Voorburgwal 115, 1012 RH Amsterdam, Netherlands"
+      },
+      "id": 136
     },
     {
       "name": "Sampurna",
@@ -21023,7 +21845,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3668248,
+        "lng": 4.8901912,
+        "address": "Singel 498, 1017 AX Amsterdam, Netherlands"
+      },
+      "id": 137
     },
     {
       "name": "Trattoria Toto",
@@ -21158,7 +21986,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3622391,
+        "lng": 4.8753614,
+        "address": "Eerste Constantijn Huygensstraat 112, 1054 BZ Amsterdam, Netherlands"
+      },
+      "id": 138
     },
     {
       "name": "Trattoria Fantasia",
@@ -21223,7 +22057,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.364504,
+        "lng": 4.881174,
+        "address": "Marnixstraat 417, 1017 PK Amsterdam, Netherlands"
+      },
+      "id": 139
     },
     {
       "name": "r. Meat",
@@ -21298,7 +22138,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36250099999999,
+        "lng": 4.898679,
+        "address": "Utrechtsestraat 92, 1017 VS Amsterdam, Netherlands"
+      },
+      "id": 140
     },
     {
       "name": "Dragon I",
@@ -21393,7 +22239,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3536903,
+        "lng": 4.8556619,
+        "address": "Amstelveenseweg 154 HS, 1075 XM Amsterdam, Netherlands"
+      },
+      "id": 141
     },
     {
       "name": "Cedars Libanees Restaurant",
@@ -21453,7 +22305,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.351926,
+        "lng": 4.844425,
+        "address": "Heemstedestraat 80, 1058 NP Amsterdam, Netherlands"
+      },
+      "id": 142
     },
     {
       "name": "Cafe St. Georg",
@@ -21508,7 +22366,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3748701,
+        "lng": 4.8920721,
+        "address": "Nieuwezijds Voorburgwal 93, 1012 RE Amsterdam, Netherlands"
+      },
+      "id": 143
     },
     {
       "name": "Brasserie De Roode Leeuw",
@@ -21783,7 +22647,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.373752,
+        "lng": 4.893603,
+        "address": "Damrak 93-94, 1012 LP Amsterdam, Netherlands"
+      },
+      "id": 144
     },
     {
       "name": "Take Thai",
@@ -22118,7 +22988,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3651934,
+        "lng": 4.8955841,
+        "address": "Thorbeckeplein 24, 1017 CS Amsterdam, Netherlands"
+      },
+      "id": 145
     },
     {
       "name": "De Molenwiek",
@@ -22198,7 +23074,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3637526,
+        "lng": 4.8841141,
+        "address": "Korte Leidsedwarsstraat 95A, 1017 PX Amsterdam, Netherlands"
+      },
+      "id": 146
     },
     {
       "name": "Hard Rock Caf",
@@ -22368,7 +23250,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3620655,
+        "lng": 4.8830728,
+        "address": "Max Euweplein 57-61, 1017 MA Amsterdam, Netherlands"
+      },
+      "id": 147
     },
     {
       "name": "De Kersentui",
@@ -22403,7 +23291,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3512959,
+        "lng": 4.874247599999999,
+        "address": "Dijsselhofplantsoen 7, 1077 BJ Amsterdam, Netherlands"
+      },
+      "id": 148
     },
     {
       "name": "Sapore Italiano",
@@ -22678,7 +23572,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3772694,
+        "lng": 4.8945487,
+        "address": "Spuistraat 3B, 1012 SP Amsterdam, Netherlands"
+      },
+      "id": 149
     },
     {
       "name": "The Uptown Meat Club",
@@ -22963,7 +23863,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.359929,
+        "lng": 4.877524999999999,
+        "address": "Van Baerlestraat 7, 1071 AL Amsterdam, Netherlands"
+      },
+      "id": 150
     },
     {
       "name": "Le Hollandais",
@@ -23128,7 +24034,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3550702,
+        "lng": 4.9055881,
+        "address": "Amsteldijk 41, 1074 HV Amsterdam, Netherlands"
+      },
+      "id": 151
     },
     {
       "name": "orlang Cafe Restaurant",
@@ -23343,7 +24255,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.366414,
+        "lng": 4.8864841,
+        "address": "Keizersgracht 451, 1017 DK Amsterdam, Netherlands"
+      },
+      "id": 152
     },
     {
       "name": "Burgerfabriek",
@@ -23463,7 +24381,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3749808,
+        "lng": 4.8977078,
+        "address": "Warmoesstraat 73HS, 1012 HX Amsterdam, Netherlands"
+      },
+      "id": 153
     },
     {
       "name": "Duend",
@@ -23568,7 +24492,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3806343,
+        "lng": 4.886108399999999,
+        "address": "Lindengracht 62, 1015 KJ Amsterdam, Netherlands"
+      },
+      "id": 154
     },
     {
       "name": "Casa Di Sergio",
@@ -23613,7 +24543,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3639303,
+        "lng": 4.883876600000001,
+        "address": "Korte Leidsedwarsstraat 83, 1017 PW Amsterdam, Netherlands"
+      },
+      "id": 155
     },
     {
       "name": "Lars Amsterdam",
@@ -23633,7 +24569,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.4014143,
+        "lng": 4.8748254,
+        "address": "Danzigerkade 179, 1013 AP Amsterdam, Netherlands"
+      },
+      "id": 156
     },
     {
       "name": "Pizzeria O Sole Mio",
@@ -23693,7 +24635,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3644444,
+        "lng": 4.8841667,
+        "address": "Lange Leidsedwarsstraat 19, 1017 NE Amsterdam, Netherlands"
+      },
+      "id": 157
     },
     {
       "name": "il palio",
@@ -23903,7 +24851,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.363397,
+        "lng": 4.884975,
+        "address": "Leidsekruisstraat 23, 1017 RE Amsterdam, Netherlands"
+      },
+      "id": 158
     },
     {
       "name": "Rancho Spui",
@@ -23968,7 +24922,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3689295,
+        "lng": 4.8913198,
+        "address": "Spui 3, 1012 WX Amsterdam, Netherlands"
+      },
+      "id": 159
     },
     {
       "name": "Coco's Outback",
@@ -24268,7 +25228,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3655333,
+        "lng": 4.8954222,
+        "address": "Thorbeckeplein 8, 1017 CS Amsterdam, Netherlands"
+      },
+      "id": 160
     },
     {
       "name": "Dragon City",
@@ -24458,7 +25424,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.372215,
+        "lng": 4.894616,
+        "address": "Damstraat 18, 1012 JM Amsterdam, Netherlands"
+      },
+      "id": 161
     },
     {
       "name": "NOMADS Amsterdam",
@@ -24483,7 +25455,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3564173,
+        "lng": 4.9299214,
+        "address": "Oranje-Vrijstaatkade 55, 1093 KS Amsterdam, Netherlands"
+      },
+      "id": 162
     },
     {
       "name": "Silom Thai Brasseri",
@@ -24593,7 +25571,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.368242,
+        "lng": 4.890843299999999,
+        "address": "Voetboogstraat 13, 1012 XK Amsterdam, Netherlands"
+      },
+      "id": 163
     },
     {
       "name": "Bistro Bos",
@@ -24703,7 +25687,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3822222,
+        "lng": 4.856111100000001,
+        "address": "Bos en Lommerweg 77, 1055 DP Amsterdam, Netherlands"
+      },
+      "id": 164
     },
     {
       "name": "ama Makan, Indonesian Kitch",
@@ -24968,7 +25958,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3618283,
+        "lng": 4.912204700000001,
+        "address": "Spinozastraat 61, 1018 HJ Amsterdam, Netherlands"
+      },
+      "id": 165
     },
     {
       "name": "NENI Amsterdam",
@@ -25053,7 +26049,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3443426,
+        "lng": 4.8561534,
+        "address": "Stadionplein 8, 1076 CM Amsterdam, Netherlands"
+      },
+      "id": 166
     },
     {
       "name": "Himalayan Kitch",
@@ -25588,7 +26590,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3669138,
+        "lng": 4.8670075,
+        "address": "Ten Katestraat 45H, 1053 BX Amsterdam, Netherlands"
+      },
+      "id": 167
     },
     {
       "name": "Cafe Clich",
@@ -25688,7 +26696,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3546104,
+        "lng": 4.929598299999999,
+        "address": "Middenweg 35, 1098 AB Amsterdam, Netherlands"
+      },
+      "id": 168
     },
     {
       "name": "Sama Sebo Indonesisch Restaurant",
@@ -25783,7 +26797,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3606673,
+        "lng": 4.8831178,
+        "address": "Pieter Cornelisz Hooftstraat 27, 1071 BL Amsterdam, Netherlands"
+      },
+      "id": 169
     },
     {
       "name": "Restaurant Bonjour",
@@ -25848,7 +26868,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3636249,
+        "lng": 4.8988241,
+        "address": "Keizersgracht 770, 1017 EB Amsterdam, Netherlands"
+      },
+      "id": 170
     },
     {
       "name": "aydanoz",
@@ -25938,7 +26964,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3524615,
+        "lng": 4.8873149,
+        "address": "Ceintuurbaan 9HS, 1072 ER Amsterdam, Netherlands"
+      },
+      "id": 171
     },
     {
       "name": "SOTTO - pizza legal",
@@ -26078,7 +27110,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3529424,
+        "lng": 4.856294999999999,
+        "address": "Amstelveenseweg 89, 1075 VW Amsterdam, Netherlands"
+      },
+      "id": 172
     },
     {
       "name": "Cafe-Restaurant IL Panorama",
@@ -26133,7 +27171,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3732859,
+        "lng": 4.8867607,
+        "address": "Herengracht 194, 1016 BS Amsterdam, Netherlands"
+      },
+      "id": 173
     },
     {
       "name": "Paloma Blanca",
@@ -26243,7 +27287,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36131,
+        "lng": 4.865046,
+        "address": "Jan Pieter Heijestraat 145, 1054 MG Amsterdam, Netherlands"
+      },
+      "id": 174
     },
     {
       "name": "The Yeti - Nepali & Indian Restaurant",
@@ -26273,7 +27323,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3761355,
+        "lng": 4.892246699999999,
+        "address": "Spuistraat 54D, 1012 TV Amsterdam, Netherlands"
+      },
+      "id": 175
     },
     {
       "name": "Oslo Beers",
@@ -26448,7 +27504,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3578014,
+        "lng": 4.8543473,
+        "address": "Sloterkade 1a, 1058 HD Amsterdam, Netherlands"
+      },
+      "id": 176
     },
     {
       "name": "LA BOCA",
@@ -26778,7 +27840,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3725904,
+        "lng": 4.8913024,
+        "address": "Paleisstraat 15, 1012 RB Amsterdam, Netherlands"
+      },
+      "id": 177
     },
     {
       "name": "Gusto Dei Signori",
@@ -26903,7 +27971,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37733050000001,
+        "lng": 4.8887066,
+        "address": "Herenstraat 28d, 1015 CB Amsterdam, Netherlands"
+      },
+      "id": 178
     },
     {
       "name": "Cafe Brakk",
@@ -27223,7 +28297,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.373901,
+        "lng": 4.882131999999999,
+        "address": "Rozengracht 16, 1016 NB Amsterdam, Netherlands"
+      },
+      "id": 179
     },
     {
       "name": "Orontes",
@@ -27288,7 +28368,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.354565,
+        "lng": 4.888655,
+        "address": "Albert Cuypstraat 40, 1072 CV Amsterdam, Netherlands"
+      },
+      "id": 180
     },
     {
       "name": "Tia Rosa tapas Amsterdam",
@@ -27493,7 +28579,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3643025,
+        "lng": 4.8962809,
+        "address": "Reguliersgracht 11, 1017 LJ Amsterdam, Netherlands"
+      },
+      "id": 181
     },
     {
       "name": "Shah-jaha",
@@ -27568,7 +28660,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.377969,
+        "lng": 4.8833818,
+        "address": "Eerste Anjeliersdwarsstraat 18, 1015 NR Amsterdam, Netherlands"
+      },
+      "id": 182
     },
     {
       "name": "Srikandi",
@@ -27688,7 +28786,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.361553,
+        "lng": 4.883633000000001,
+        "address": "Stadhouderskade 31, 1071 ZD Amsterdam, Netherlands"
+      },
+      "id": 183
     },
     {
       "name": "Cafe Americain Amsterdam",
@@ -27798,7 +28902,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3638848,
+        "lng": 4.881504400000001,
+        "address": "Leidseplein 28, 1017 PT Amsterdam, Netherlands"
+      },
+      "id": 184
     },
     {
       "name": "Indian Restaurant Swagat",
@@ -27863,7 +28973,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3452424,
+        "lng": 4.8594092,
+        "address": "Stadionweg 247-249, 1076 NX Amsterdam, Netherlands"
+      },
+      "id": 185
     },
     {
       "name": "Cafe Droog",
@@ -27883,7 +28999,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3683956,
+        "lng": 4.8973055,
+        "address": "Staalstraat 7B, 1011 JJ Amsterdam, Netherlands"
+      },
+      "id": 186
     },
     {
       "name": "Brasserie Blazer",
@@ -27963,7 +29085,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3684556,
+        "lng": 4.8788944,
+        "address": "Lijnbaansgracht 190, 1016 XA Amsterdam, Netherlands"
+      },
+      "id": 187
     },
     {
       "name": "Hick's Diner",
@@ -28208,7 +29336,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3799925,
+        "lng": 4.8925866,
+        "address": "Haarlemmerstraat 65, 1013 EL Amsterdam, Netherlands"
+      },
+      "id": 188
     },
     {
       "name": "omenti - Italian Cuisi",
@@ -28308,7 +29442,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37721459999999,
+        "lng": 4.888644,
+        "address": "Herenstraat 25, 1015 BZ Amsterdam, Netherlands"
+      },
+      "id": 189
     },
     {
       "name": "Rancho Leidseplei",
@@ -28423,7 +29563,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36412989999999,
+        "lng": 4.8837323,
+        "address": "Korte Leidsedwarsstraat 71, 1017 PW Amsterdam, Netherlands"
+      },
+      "id": 190
     },
     {
       "name": "Het Bosch Waterfront",
@@ -28473,7 +29619,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3355662,
+        "lng": 4.8484574,
+        "address": "Jollenpad 10, 1081 KC Amsterdam, Netherlands"
+      },
+      "id": 191
     },
     {
       "name": "me Coco @ WestCord Fashion Hotel",
@@ -28603,7 +29755,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.357655,
+        "lng": 4.844576000000001,
+        "address": "Hendrikje Stoffelsstraat 1, 1058 GC Amsterdam, Netherlands"
+      },
+      "id": 192
     },
     {
       "name": "r Stacks - Bubble Tea & Vegan Pancakes",
@@ -28668,7 +29826,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3545271,
+        "lng": 4.890831599999999,
+        "address": "Govert Flinckstraat 122, 1072 EM Amsterdam, Netherlands"
+      },
+      "id": 193
     },
     {
       "name": "Sham Restaurant",
@@ -28753,7 +29917,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3697619,
+        "lng": 4.936940799999999,
+        "address": "Borneosteiger 1, 1019 KM Amsterdam, Netherlands"
+      },
+      "id": 194
     },
     {
       "name": "Grandcafe l'Opera",
@@ -28838,7 +30008,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3664839,
+        "lng": 4.8974271,
+        "address": "Rembrandtplein 27-29, 1017 CT Amsterdam, Netherlands"
+      },
+      "id": 195
     },
     {
       "name": "ythos Greek Restaurant",
@@ -28958,7 +30134,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.364301,
+        "lng": 4.884214,
+        "address": "27, Lange Leidsedwarsstraat, 1017 NG Amsterdam, Netherlands"
+      },
+      "id": 196
     },
     {
       "name": "Wurst & Schnitzelhaus Centraal Statio",
@@ -29023,7 +30205,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3799943,
+        "lng": 4.900303099999999,
+        "address": "De Ruijterkade 40A, 1012 AA Amsterdam, Netherlands"
+      },
+      "id": 197
     },
     {
       "name": "Songkra",
@@ -29098,7 +30286,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3792827,
+        "lng": 4.879462600000001,
+        "address": "Marnixstraat 86-H, 1015 VX Amsterdam, Netherlands"
+      },
+      "id": 198
     },
     {
       "name": "Restaurant I-Dock",
@@ -29238,7 +30432,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3848819,
+        "lng": 4.894046800000001,
+        "address": "IJdok 4, 1013 MM Amsterdam, Netherlands"
+      },
+      "id": 199
     },
     {
       "name": "Cabro",
@@ -29278,7 +30478,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3557352,
+        "lng": 4.8948373,
+        "address": "Albert Cuypstraat 166A, 1073 BK Amsterdam, Netherlands"
+      },
+      "id": 200
     },
     {
       "name": "amas & Tapas",
@@ -29373,7 +30579,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37476299999999,
+        "lng": 4.8733153,
+        "address": "Hugo de Grootplein 6, 1052 KW Amsterdam, Netherlands"
+      },
+      "id": 201
     },
     {
       "name": "Grand Cafe-Restaurant 1e klas",
@@ -29528,7 +30740,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3781997,
+        "lng": 4.9009163,
+        "address": "Stationsplein 15, 1012 AB Amsterdam, Netherlands"
+      },
+      "id": 202
     },
     {
       "name": "Dappertutto",
@@ -29603,7 +30821,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3653699,
+        "lng": 4.9262317,
+        "address": "Mauritskade 110, 1093 RT Amsterdam, Netherlands"
+      },
+      "id": 203
     },
     {
       "name": "Raan Phad Thai 2",
@@ -29718,7 +30942,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3699684,
+        "lng": 4.8986578,
+        "address": "Raamgracht 9, 1011 KH Amsterdam, Netherlands"
+      },
+      "id": 204
     },
     {
       "name": "Elsa's Jazz Caf",
@@ -29813,7 +31043,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.35318609999999,
+        "lng": 4.9319667,
+        "address": "Middenweg 73, 1098 AE Amsterdam, Netherlands"
+      },
+      "id": 205
     },
     {
       "name": "Restaurant Gary Lo",
@@ -29843,7 +31079,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3977612,
+        "lng": 4.8732373,
+        "address": "Moermanskkade 4, 1013 BC Amsterdam, Netherlands"
+      },
+      "id": 206
     },
     {
       "name": "Brasserie Van Dam",
@@ -30093,7 +31335,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.355639,
+        "lng": 4.870725,
+        "address": "Cornelis Schuytstraat 8-10, 1071 JH Amsterdam, Netherlands"
+      },
+      "id": 207
     },
     {
       "name": "Siam Thai Restaurant",
@@ -30218,7 +31466,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3744887,
+        "lng": 4.8917511,
+        "address": "Nieuwezijds Voorburgwal 105, 1012 RG Amsterdam, Netherlands"
+      },
+      "id": 208
     },
     {
       "name": "Cafe Het Molenpad",
@@ -30298,7 +31552,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36721300000001,
+        "lng": 4.8828714,
+        "address": "Prinsengracht 653, 1015 DS Amsterdam, Netherlands"
+      },
+      "id": 209
     },
     {
       "name": "Rangoli Restaurant",
@@ -30393,7 +31653,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3794177,
+        "lng": 4.8936894,
+        "address": "Haarlemmerstraat 11, 1013 EH Amsterdam, Netherlands"
+      },
+      "id": 210
     },
     {
       "name": "La Casona",
@@ -30578,7 +31844,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3641827,
+        "lng": 4.8980242,
+        "address": "Utrechtsestraat 42, 1017 VP Amsterdam, Netherlands"
+      },
+      "id": 211
     },
     {
       "name": "Restaurant Sita",
@@ -30933,7 +32205,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3550932,
+        "lng": 4.8810893,
+        "address": "Van Baerlestraat 61 HS, 1071 AR Amsterdam, Netherlands"
+      },
+      "id": 212
     },
     {
       "name": "Il Borgo Ristorante Italiano",
@@ -31013,7 +32291,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3546732,
+        "lng": 4.9324322,
+        "address": "Hogeweg 40H, 1098 CD Amsterdam, Netherlands"
+      },
+      "id": 213
     },
     {
       "name": "Zushi",
@@ -31323,7 +32607,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3668862,
+        "lng": 4.8946784,
+        "address": "Amstel 20, 1017 AA Amsterdam, Netherlands"
+      },
+      "id": 214
     },
     {
       "name": "t restaurant",
@@ -31338,7 +32628,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3639097,
+        "lng": 4.9106125,
+        "address": "Roetersstraat 4, 1018 WC Amsterdam, Netherlands"
+      },
+      "id": 215
     },
     {
       "name": "Cosy by Mandy",
@@ -31433,7 +32729,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3635279,
+        "lng": 4.884844,
+        "address": "Leidsekruisstraat 26, 1017 RJ Amsterdam, Netherlands"
+      },
+      "id": 216
     },
     {
       "name": "Delirium Cafe Amsterdam",
@@ -31468,7 +32770,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3775415,
+        "lng": 4.9130078,
+        "address": "4, Piet Heinkade, 1019 BR Amsterdam, Netherlands"
+      },
+      "id": 217
     },
     {
       "name": "Restaurant Hulscher's",
@@ -31538,7 +32846,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3740773,
+        "lng": 4.8906921,
+        "address": "Nieuwezijds Voorburgwal 178, 1012 SJ Amsterdam, Netherlands"
+      },
+      "id": 218
     },
     {
       "name": "angiancora",
@@ -31603,7 +32917,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.35170369999999,
+        "lng": 4.8911188,
+        "address": "Ferdinand Bolstraat 170, 1072 LT Amsterdam, Netherlands"
+      },
+      "id": 219
     },
     {
       "name": "Burrata",
@@ -31648,7 +32968,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.366679,
+        "lng": 4.895856999999999,
+        "address": "Halvemaansteeg 9-11, 1017 CR Amsterdam, Netherlands"
+      },
+      "id": 220
     },
     {
       "name": "Palladio Restaurant",
@@ -31753,7 +33079,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36993,
+        "lng": 4.8811702,
+        "address": "Elandsgracht 64, 1016 TX Amsterdam, Netherlands"
+      },
+      "id": 221
     },
     {
       "name": "Wildschut",
@@ -31848,7 +33180,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3534556,
+        "lng": 4.8823805,
+        "address": "Roelof Hartplein 1-3, 1071 TR Amsterdam, Netherlands"
+      },
+      "id": 222
     },
     {
       "name": "Burgerij Amsterdam CS",
@@ -31863,7 +33201,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3797017,
+        "lng": 4.901097099999999,
+        "address": "IJ-zijde, De Ruijterkade 40B, 1012 AA Amsterdam, Netherlands"
+      },
+      "id": 223
     },
     {
       "name": "Wissenkerk",
@@ -32098,7 +33442,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3872004,
+        "lng": 4.8355254,
+        "address": "Radarweg 236, Barajasweg 20, 1043 NV Amsterdam, Netherlands"
+      },
+      "id": 224
     },
     {
       "name": "Cafe In de Waag",
@@ -32343,7 +33693,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3728029,
+        "lng": 4.900394299999999,
+        "address": "Nieuwmarkt 4, 1012 CR Amsterdam, Netherlands"
+      },
+      "id": 225
     },
     {
       "name": "Restaurant SmaaQt",
@@ -32503,7 +33859,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3894444,
+        "lng": 4.9097222,
+        "address": "Van der Pekstraat 79, 1031 CT Amsterdam, Netherlands"
+      },
+      "id": 226
     },
     {
       "name": "KNUS",
@@ -32603,7 +33965,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3604239,
+        "lng": 4.9254741,
+        "address": "Linnaeusstraat 63, 1093 EJ Amsterdam, Netherlands"
+      },
+      "id": 227
     },
     {
       "name": "Restaurant T",
@@ -32658,7 +34026,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3639097,
+        "lng": 4.9106125,
+        "address": "Roetersstraat 4, 1018 WC Amsterdam, Netherlands"
+      },
+      "id": 228
     },
     {
       "name": "Senor Mostachio",
@@ -32713,7 +34087,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3524574,
+        "lng": 4.8869186,
+        "address": "Ruysdaelkade 183H, 1072 AT Amsterdam, Netherlands"
+      },
+      "id": 229
     },
     {
       "name": "Restaurant MOZO",
@@ -32968,7 +34348,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3545587,
+        "lng": 4.9016584,
+        "address": "Van Woustraat 89, 1074 AE Amsterdam, Netherlands"
+      },
+      "id": 230
     },
     {
       "name": "India Roti Room",
@@ -33128,7 +34514,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3561821,
+        "lng": 4.9095849,
+        "address": "Eerste Oosterparkstraat 67-71, 1091 GW Amsterdam, Netherlands"
+      },
+      "id": 231
     },
     {
       "name": "onkey Templ",
@@ -33223,7 +34615,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3639436,
+        "lng": 4.8844036,
+        "address": "Lange Leidsedwarsstraat 106, 1017 NN Amsterdam, Netherlands"
+      },
+      "id": 232
     },
     {
       "name": "Los Argentinos",
@@ -33343,7 +34741,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36372189999999,
+        "lng": 4.8854422,
+        "address": "Leidsekruisstraat 7, 1017 RE Amsterdam, Netherlands"
+      },
+      "id": 233
     },
     {
       "name": "Caramba",
@@ -33458,7 +34862,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37981449999999,
+        "lng": 4.8808862,
+        "address": "Lindengracht 336, 1015 KN Amsterdam, Netherlands"
+      },
+      "id": 234
     },
     {
       "name": "Oriental Restaurant Ruby",
@@ -33608,7 +35018,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3318667,
+        "lng": 4.877025,
+        "address": "Arent Janszoon Ernststraat 589A, 1082 LD Amsterdam, Netherlands"
+      },
+      "id": 235
     },
     {
       "name": "Scossa Restaurant",
@@ -33763,7 +35179,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3777742,
+        "lng": 4.894371700000001,
+        "address": "Kattengat 1, 1012 SZ Amsterdam, Netherlands"
+      },
+      "id": 236
     },
     {
       "name": "Azmarino",
@@ -33848,7 +35270,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.35388890000001,
+        "lng": 4.899166699999999,
+        "address": "Tweede Sweelinckstraat 6, 1073 EH Amsterdam, Netherlands"
+      },
+      "id": 237
     },
     {
       "name": "Hanoi Old Quarter",
@@ -34033,7 +35461,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3703105,
+        "lng": 4.8895626,
+        "address": "Nieuwezijds Voorburgwal 306-0, 1012 RV Amsterdam, Netherlands"
+      },
+      "id": 238
     },
     {
       "name": "Dimitri's Grand Caf",
@@ -34228,7 +35662,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.361469,
+        "lng": 4.932329000000001,
+        "address": "Insulindeweg 1, 1094 NW Amsterdam, Netherlands"
+      },
+      "id": 239
     },
     {
       "name": "ister Chen x Cha Hous",
@@ -34393,7 +35833,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3593176,
+        "lng": 4.925497099999999,
+        "address": "Linnaeusstraat 18, 1092 CK Amsterdam, Netherlands"
+      },
+      "id": 240
     },
     {
       "name": "Restaurant Mendoza",
@@ -34448,7 +35894,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3738661,
+        "lng": 4.8838628,
+        "address": "Westermarkt 23, 1016 DJ Amsterdam, Netherlands"
+      },
+      "id": 241
     },
     {
       "name": "Brooks",
@@ -34638,7 +36090,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3482333,
+        "lng": 4.8773086,
+        "address": "Beethovenstraat 43, 1077 HN Amsterdam, Netherlands"
+      },
+      "id": 242
     },
     {
       "name": "Rembrandt Corner",
@@ -34703,7 +36161,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.36936799999999,
+        "lng": 4.90111,
+        "address": "Jodenbreestraat 2, 1011 NK Amsterdam, Netherlands"
+      },
+      "id": 243
     },
     {
       "name": "Rancho Rembrandtplei",
@@ -34798,7 +36262,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3665682,
+        "lng": 4.8951951,
+        "address": "Reguliersbreestraat 37, 1017 CM Amsterdam, Netherlands"
+      },
+      "id": 244
     },
     {
       "name": "Graphite by Peter Gast",
@@ -34813,7 +36283,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3665021,
+        "lng": 4.898294,
+        "address": "Paardenstraat 15III, 1017 CX Amsterdam, Netherlands"
+      },
+      "id": 245
     },
     {
       "name": "Joselito",
@@ -34888,7 +36364,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3788223,
+        "lng": 4.8946634,
+        "address": "Nieuwendijk 2, 1012 MK Amsterdam, Netherlands"
+      },
+      "id": 246
     },
     {
       "name": "Restaurant De Palmboom",
@@ -35008,7 +36490,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3702903,
+        "lng": 4.8966837,
+        "address": "Rusland 17, 1012 CK Amsterdam, Netherlands"
+      },
+      "id": 247
     },
     {
       "name": "Fyrre Seafood Bar",
@@ -35133,7 +36621,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3634756,
+        "lng": 4.9333859,
+        "address": "Javastraat 40, 1094 HJ Amsterdam, Netherlands"
+      },
+      "id": 248
     },
     {
       "name": "Restaurant Quartier Lati",
@@ -35253,7 +36747,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3642611,
+        "lng": 4.898219399999999,
+        "address": "Utrechtsestraat 49, 1017 VH Amsterdam, Netherlands"
+      },
+      "id": 249
     },
     {
       "name": "angia Pizza & Wine da Antonio",
@@ -35368,7 +36868,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3610268,
+        "lng": 4.891524599999999,
+        "address": "Vijzelgracht 33, 1017 HN Amsterdam, Netherlands"
+      },
+      "id": 250
     },
     {
       "name": "Cafe Zurich",
@@ -35548,7 +37054,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.369364,
+        "lng": 4.8509859,
+        "address": "Mercatorplein 2b, 1057 CB Amsterdam, Netherlands"
+      },
+      "id": 251
     },
     {
       "name": "Balti Hous",
@@ -35643,7 +37155,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3547628,
+        "lng": 4.8886049,
+        "address": "Albert Cuypstraat 41, 1072 CL Amsterdam, Netherlands"
+      },
+      "id": 252
     },
     {
       "name": "Sahan Amsterdam",
@@ -35903,7 +37421,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.358398,
+        "lng": 4.8001969,
+        "address": "Tussen Meer 66, 1068 GC Amsterdam, Netherlands"
+      },
+      "id": 253
     },
     {
       "name": "Ristorante Il Fior",
@@ -36178,7 +37702,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3804008,
+        "lng": 4.8870586,
+        "address": "Lindengracht 25a, 1015 KB Amsterdam, Netherlands"
+      },
+      "id": 254
     },
     {
       "name": "Restaurant Kukelek",
@@ -36238,7 +37768,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3636965,
+        "lng": 4.8854196,
+        "address": "Leidsekruisstraat 11, 1017 RE Amsterdam, Netherlands"
+      },
+      "id": 255
     },
     {
       "name": "Pasoek Thai Restaurant",
@@ -36303,7 +37839,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.39385129999999,
+        "lng": 4.913852299999999,
+        "address": "Kamperfoelieweg 7, 1032 HD Amsterdam, Netherlands"
+      },
+      "id": 256
     },
     {
       "name": "Bistro Berlag",
@@ -36518,7 +38060,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3746061,
+        "lng": 4.8955296,
+        "address": "Beursplein 1, 1012 JW Amsterdam, Netherlands"
+      },
+      "id": 257
     },
     {
       "name": "Gallery 3 Lunchbar",
@@ -36573,7 +38121,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.367037,
+        "lng": 4.8725317,
+        "address": "Bilderdijkstraat 175h, 1053 KR Amsterdam, Netherlands"
+      },
+      "id": 258
     },
     {
       "name": "SOIL Vegan Caf",
@@ -36668,7 +38222,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3685248,
+        "lng": 4.8716456,
+        "address": "Bilderdijkstraat 141, 1053 KN Amsterdam, Netherlands"
+      },
+      "id": 259
     },
     {
       "name": "De Blauwe Parad",
@@ -36718,7 +38278,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3740773,
+        "lng": 4.8906921,
+        "address": "Nieuwezijds Voorburgwal 178, 1012 SJ Amsterdam, Netherlands"
+      },
+      "id": 260
     },
     {
       "name": "Sotto Pizza Kadijksplei",
@@ -36783,7 +38349,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.37,
+        "lng": 4.911944399999999,
+        "address": "Kadijksplein 4, 1018 AB Amsterdam, Netherlands"
+      },
+      "id": 261
     },
     {
       "name": "Cafe Binnen Buit",
@@ -36843,7 +38415,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3547966,
+        "lng": 4.8872024,
+        "address": "Ruysdaelkade 115, 1072 AN Amsterdam, Netherlands"
+      },
+      "id": 262
     },
     {
       "name": "Pizza Heart Bar",
@@ -37158,7 +38736,13 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3491977,
+        "lng": 4.9137604,
+        "address": "Schollenbrugstraat 8, 1091 EX Amsterdam, Netherlands"
+      },
+      "id": 263
     },
     {
       "name": "Pizza Heart Bar",
@@ -39098,6 +40682,12 @@
             }
           ]
         }
-      ]
+      ],
+      "geodata": {
+        "lat": 52.3491977,
+        "lng": 4.9137604,
+        "address": "Schollenbrugstraat 8, 1091 EX Amsterdam, Netherlands"
+      },
+      "id": 264
     }
   ]

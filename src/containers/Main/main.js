@@ -86,17 +86,18 @@ export default class Main extends Component {
 
   fetchData = () => {
     let {searchValue} = this.state
+    if (!searchValue) {
+      return;
+    }
     const jsonData = require("../../assets/data/restaurant-menus2.json")
     const selected = this.findMenu(jsonData, searchValue.toLowerCase())
-    if (selected.length > 0) {
-      this.setState({
-        // menu: selected.selectedRestaurant.menu,
-        // selectedMeal: selected.selectedMeal,
-        // selectedRestaurant: selected.selectedRestaurant,
-        selectedRestaurantsAndMeals: selected,
-        searchValue: ''
-      })
-    }
+    this.setState({
+      // menu: selected.selectedRestaurant.menu,
+      // selectedMeal: selected.selectedMeal,
+      // selectedRestaurant: selected.selectedRestaurant,
+      selectedRestaurantsAndMeals: selected,
+      searchValue: ''
+    })
   }
 
   searchHandling = () => {
