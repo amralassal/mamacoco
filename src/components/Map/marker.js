@@ -8,7 +8,8 @@ const Wrapper = styled.div`
   left: 50%;
   width: 18px;
   height: 18px;
-  background-color: #000;
+  background-color: ;
+  background-color: ${(props) => (props.color ? props.color : '#000')};
   border: 2px solid #fff;
   border-radius: 100%;
   user-select: none;
@@ -19,10 +20,11 @@ const Wrapper = styled.div`
   }
 `;
 
-const Marker = ({ text, onClick }) => (
+const Marker = ({ text, onClick, color}) => (
   <Wrapper
     alt={text}
     onClick={onClick}
+    color={color}
   >
   </Wrapper>
 );
@@ -34,6 +36,7 @@ Marker.defaultProps = {
 Marker.propTypes = {
   onClick: PropTypes.func,
   text: PropTypes.string.isRequired,
+  color: PropTypes.string,
 };
 
 export default Marker;

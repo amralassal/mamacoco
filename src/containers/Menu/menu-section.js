@@ -8,7 +8,6 @@ export default class MenuSection extends Component {
     this.state = {
       cards: null
     }
-    console.log(this.props)
   }
 
   render() {

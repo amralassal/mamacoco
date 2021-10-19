@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {Button, Col, Form, Row} from "react-bootstrap";
 import Menu from "../Menu/menu";
+import jsonData from "../../assets/data/restaurant-menus2.json";
 
 export default class Main extends Component {
 
@@ -62,18 +63,24 @@ export default class Main extends Component {
     }
   }
 
-  findMenu = (jsonData, keyWord) => {
+  findMenu = (jsonData, keyWordsArray) => {
     let selected = []
     jsonData.map(res => {
-      let meals = []
+      let meals = {}
       res.menu.map(section => {
         section.meals.map(meal => {
-          if (meal.title.toLowerCase().includes(keyWord) || meal.description.toLowerCase().includes(keyWord)) {
-            meals.push(meal)
+          for (let i = 0; i < keyWordsArray.length; i++) {
+            let searchValue = keyWordsArray[i].trim().toLowerCase()
+            if (meal.title.toLowerCase().includes(searchValue) || meal.description.toLowerCase().includes(searchValue)) {
+              if(!meals[searchValue]) {
+                meals[searchValue] = []
+              }
+              meals[searchValue].push(meal)
+            }
           }
         })
       })
-      if (meals.length > 0) {
+      if (Object.keys(meals).length > 0) {
         selected.push({
            restaurant: res,
             meal: meals
@@ -84,18 +91,26 @@ export default class Main extends Component {
     return selected;
   }
 
+  sortRestaurantsByMostCombinations = (meals) => {
+    meals.sort(function(a, b){
+      return Object.keys(b.meal).length - Object.keys(a.meal).length
+    });
+  }
+
   fetchData = () => {
     let {searchValue} = this.state
     if (!searchValue) {
       return;
     }
     const jsonData = require("../../assets/data/restaurant-menus2.json")
-    const selected = this.findMenu(jsonData, searchValue.toLowerCase())
+    const searchValueArray = searchValue.split(',');
+    let selectedRestaurantsAndMeals = this.findMenu(jsonData, searchValueArray)
+    this.sortRestaurantsByMostCombinations(selectedRestaurantsAndMeals)
     this.setState({
       // menu: selected.selectedRestaurant.menu,
       // selectedMeal: selected.selectedMeal,
       // selectedRestaurant: selected.selectedRestaurant,
-      selectedRestaurantsAndMeals: selected,
+      selectedRestaurantsAndMeals: selectedRestaurantsAndMeals,
       searchValue: ''
     })
   }

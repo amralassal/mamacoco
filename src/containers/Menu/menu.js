@@ -29,6 +29,20 @@ export default class Menu extends Component {
     })
   }
 
+  getMenuCardColor(index) {
+    const color = [
+      'info',
+      'success',
+      'secondary',
+      'primary',
+      'light',
+      'dark',
+      'danger',
+      'warning',
+    ]
+    return color[index]
+  }
+
   renderRestaurants() {
     return(
       this.props.selectedRestaurantsAndMeals.map(
@@ -39,15 +53,19 @@ export default class Menu extends Component {
                 onClick={() => this.changeMapCenterClickHandler(resAndMeal.restaurant.geodata)}
             >{resAndMeal.restaurant.name}</h2>
             {
-              resAndMeal.meal.map(
-                (meal, index) => (
-                  <MenuCard
-                    key={resAndMeal.restaurant.id +'-'+ meal.title + index}
-                    title={meal.title}
-                    price={meal.price}
-                    description={meal.description}
-                    bg='info'
-                  />
+              Object.keys(resAndMeal.meal).map(
+                (mealKey, indexMealKey) => (
+                  resAndMeal.meal[mealKey].map(
+                    (meal, indexMeal) => (
+                      <MenuCard
+                        key={resAndMeal.restaurant.id +'-'+ mealKey + meal.title + indexMeal}
+                        title={meal.title}
+                        price={meal.price}
+                        description={meal.description}
+                        bg={this.getMenuCardColor(indexMealKey)}
+                      />
+                    )
+                  )
                 )
               )
             }
