@@ -8,44 +8,13 @@ export default class Main extends Component {
   constructor(props) {
     super(props);
 
-    const dummy_title = [
-      'Meat',
-      'viggie',
-      'fish'
-    ];
-
-    const dummy_meals = [
-      {
-        title: 'meal 1',
-        price: '30',
-        description: 'Some quick example text to build on the card title and make up the bulk of'
-      },
-      {
-        title: 'meal 2',
-        price: '24',
-        description: 'Some quick example text to build on the card title and make up the bulk of'
-      },
-      {
-        title: 'meal 3',
-        price: '49',
-        description: 'Some quick example text to build on the card title and make up the bulk of'
-      },
+    this.nonFoodWords = [
+      'i', 'we', 'are', 'look', 'looking', 'feel', 'feeling', 'eat', 'and', 'to', 'like', 'something', 'want', 'wants', 'wanting', 'for', 'tonight', 'around',
+      'would', 'love', 'right', 'now', 'a', 'with', 'today'
     ];
 
     this.state = {
       menu: [
-        {
-          title: 'Meat',
-          meals: dummy_meals
-        },
-        {
-          title: 'Viggie',
-          meals: dummy_meals
-        },
-        {
-          title: 'fish',
-          meals: dummy_meals
-        }
       ],
       selectedMeal: [],
       selectedRestaurant : [{
@@ -64,6 +33,7 @@ export default class Main extends Component {
   }
 
   findMenu = (jsonData, keyWordsArray) => {
+    if (keyWordsArray.length ==0) return;
     let selected = []
     jsonData.map(res => {
       let meals = {}
@@ -103,7 +73,9 @@ export default class Main extends Component {
       return;
     }
     const jsonData = require("../../assets/data/restaurant-menus2.json")
-    const searchValueArray = searchValue.split(',');
+    const searchTerms = searchValue.split(/[\s,]+/);
+    const searchValueArray = searchTerms.filter(item => !this.nonFoodWords.includes(item))
+    console.log(searchValueArray)
     let selectedRestaurantsAndMeals = this.findMenu(jsonData, searchValueArray)
     this.sortRestaurantsByMostCombinations(selectedRestaurantsAndMeals)
     this.setState({

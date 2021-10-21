@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import Card from 'react-bootstrap/Card';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import VoteButton from "../VoteButton/vote-button";
 
 export default class MenuCard extends Component {
 
@@ -13,8 +14,11 @@ export default class MenuCard extends Component {
         <Card.Body>
           <Card.Title>
             <Row>
-              <Col>{this.props.title}</Col>
-              <Col className="text-end">€{this.props.price}</Col>
+              <Col sm={7}>{this.props.title}</Col>
+              <Col sm={3}>
+                <VoteButton/>
+              </Col>
+              <Col sm={2} className="text-end">€{this.props.price}</Col>
             </Row>
           </Card.Title>
           <Card.Text>
