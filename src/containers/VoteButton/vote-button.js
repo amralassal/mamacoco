@@ -1,7 +1,10 @@
 import React, {Component} from 'react';
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Button from 'react-bootstrap/Button'
+import Button from 'react-bootstrap/Button';
+import upvote from './upvote.png';
+import downvote from './downvote.png';
+
 
 export default class VoteButton extends Component {
 
@@ -9,10 +12,16 @@ export default class VoteButton extends Component {
     return (
       <Row>
         <Col>
-          <Button variant="primary">Up vote</Button>
+          <Button>
+            <img src={upvote} style={
+              {height: '2vh', width: '2vh'}}/>
+          </Button>
         </Col>
         <Col>
-          <Button variant="primary">Down vote</Button>
+          <Button>
+            <img src={downvote} style={
+              {height: '2vh', width: '2vh'}}/>
+          </Button>
         </Col>
       </Row>
     );

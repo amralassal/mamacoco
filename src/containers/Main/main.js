@@ -9,8 +9,8 @@ export default class Main extends Component {
     super(props);
 
     this.nonFoodWords = [
-      'i', 'we', 'are', 'look', 'looking', 'feel', 'feeling', 'eat', 'and', 'to', 'like', 'something', 'want', 'wants', 'wanting', 'for', 'tonight', 'around',
-      'would', 'love', 'right', 'now', 'a', 'with', 'today'
+      'i', 'we', 'are', 'look', 'looking', 'feel', 'feels', 'feeling', 'eat', 'and', 'to', 'like', 'something', 'want', 'wants', 'wanting', 'for', 'tonight', 'around',
+      'would', 'love', 'right', 'now', 'a', 'with', 'today', 'han', 'drink', 'drinking', 'nikos', 'amr'
     ];
 
     this.state = {
@@ -73,9 +73,12 @@ export default class Main extends Component {
       return;
     }
     const jsonData = require("../../assets/data/restaurant-menus2.json")
-    const searchTerms = searchValue.split(/[\s,]+/);
-    const searchValueArray = searchTerms.filter(item => !this.nonFoodWords.includes(item))
+    const searchTerms = searchValue.trim().toLowerCase().split(/[\s,]+/);
+    let searchValueArray = searchTerms.filter(item => !this.nonFoodWords.includes(item))
     console.log(searchValueArray)
+    if (searchValueArray.includes('promotion')) {
+      searchValueArray = ['burger', 'steak', 'pasta', 'vegetarian']
+    }
     let selectedRestaurantsAndMeals = this.findMenu(jsonData, searchValueArray)
     this.sortRestaurantsByMostCombinations(selectedRestaurantsAndMeals)
     this.setState({

@@ -16,7 +16,20 @@ export default class Menu extends Component {
         lng: 4.8922937
       },
       zoom: 13,
-      key: ''
+      key: '',
+      adRestaurant: {
+          restaurant: {
+            id: 'ad0',
+            name: 'I have money for ads Restaurant'
+          },
+          meal: [
+            {
+              title: "Sponsored Meal",
+              price: "19.50",
+              description: "Please buy my meal"
+            }
+          ]
+      }
     }
   }
 
@@ -41,6 +54,24 @@ export default class Menu extends Component {
       'warning',
     ]
     return color[index]
+  }
+
+  showAd() {
+    const adMeal =this.state.adRestaurant.meal[0]
+    return(
+          <Row>
+            <h4></h4>
+            <h2 className="text-center text-light bg-dark"
+            >{this.state.adRestaurant.restaurant.name}</h2>
+            <MenuCard
+              key={this.state.adRestaurant.restaurant.id}
+              title={adMeal.title}
+              price={adMeal.price}
+              description={adMeal.description}
+              bg={this.getMenuCardColor(6)}
+            />
+          </Row>
+    )
   }
 
   renderRestaurants() {
@@ -86,8 +117,12 @@ export default class Menu extends Component {
   }
 
   render() {
+
+    let showAd;
+
     let restaurants;
     if (this.props.selectedRestaurantsAndMeals.length > 0) {
+      // showAd = this.showAd()
       restaurants = this.renderRestaurants()
     } else {
       restaurants = this.renderNoResultsFound()
@@ -100,6 +135,7 @@ export default class Menu extends Component {
                 {...this.state}
               >
               </GoogleMap>
+            {showAd}
             {restaurants}
             {/*{*/}
             {/*  this.props.menu.map(*/}

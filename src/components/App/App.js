@@ -18,9 +18,9 @@ class App extends Component {
                 crossOrigin="anonymous"
             />
 
-          <div className="row">
-            <Navbar/>
-          </div>
+          {/*<div className="row">*/}
+          {/*  <Navbar/>*/}
+          {/*</div>*/}
 
           <main role="main" className="col-md-9 ml-sm-auto col-lg-10 px-4">
             <Router/>
